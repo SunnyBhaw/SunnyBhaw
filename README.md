@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-**SunnyBhaw/SunnyBhaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+I am a passionate **Computer Science and Engineering (CSE)** student at **IUBAT**, focusing on **Software Development**, **Web Development**, and **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **JavaScript**, **React**, **Node**, **Mongo** and **Express**.
+- 🎯 My goal: Become a **Software Engineer** specialized in **AI-driven Web Development**.
+- ⚡ Fun fact: I love solving coding problems on **Codeforces**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages & Frameworks:**
+- **Web Development:** HTML, CSS, Bootstrap, JavaScript, React (learning)
+- **Backend:** Node.js (learning)
+- **Database:** MongoDB (learning)
+- **AI/ML:** Python (learning)
+
+**Tools:**
+- VS Code, Git, GitHub
+
+---
+
+## 📫 Contact Me
+
+- **Email:** mirzahidulalam2000@gmail.com 
+
+Let's connect and build amazing projects together! 🚀
+
