@@ -5,7 +5,6 @@ I am a passionate **Computer Science and Engineering (CSE)** student at **IUBAT*
 
 - 🌱 I’m currently learning **JavaScript**, **React**, **Node**, **Mongo** and **Express**.
 - 🎯 My goal: Become a **Software Engineer** specialized in **AI-driven Web Development**.
-- ⚡ Fun fact: I love solving coding problems on **Codeforces**
 
 ---
 
