@@ -49,6 +49,8 @@ Focused on creating scalable, real-world solutions.
 
 ### 🔹 InternLabge
 
+🔗 [View Code](https://github.com/SunnyBhaw/InternLagbe)
+
 > Internship Management Platform
 
 * 📌 A full-stack web application to manage and track internship opportunities
@@ -57,6 +59,8 @@ Focused on creating scalable, real-world solutions.
 
 ### 🔹 Timer App
 
+🔗 [View Code](https://github.com/SunnyBhaw/Timer-App)
+
 > Productivity Tool
 
 * ⏱️ A React-based timer application for focused work sessions
@@ -64,12 +68,16 @@ Focused on creating scalable, real-world solutions.
 
 ### 🔹 Backend API Project
 
+🔗 [View Code](https://github.com/SunnyBhaw/Basic-Backend-Project)
+
 > RESTful API
 
 * 🔧 Built a REST API with CRUD operations
 * ⚙️ Node.js & Express backend with structured routes
 
 ### 🔹 Fitness Website
+
+🔗 [View Code](https://github.com/SunnyBhaw/Fitness-by-tailwindcss)
 
 > Responsive UI Project
 
