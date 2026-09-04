@@ -1,110 +1,111 @@
 <h1 align="center">Hi 👋, I'm Mir Zahidul Alam</h1>
-<h3 align="center">💻 Full-Stack Developer | Building Scalable Web Applications</h3>
+
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Real-World+Projects;Exploring+Python+%26+AI+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+Developer;React+%7C+Node.js+%7C+Express.js;Building+Real-World+Applications;Solving+Problems+with+Code+🚀" />
 </p>
 
 <p align="center">
-I build full-stack web applications using the MERN stack and explore Python for automation and AI.  
-Focused on creating scalable, real-world solutions.
+  I'm a Software Engineer focused on building practical, reliable, and scalable software solutions.
+  <br />
+  I work with modern web technologies and enjoy turning ideas and requirements into real-world applications.
 </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 Graduate in **Computer Science & Engineering (IUBAT)**
-* 💻 Full-Stack Developer specializing in **React, Node.js, Express & MongoDB**
-* ⚙️ Experienced in building **REST APIs and responsive web applications**
-* 🐍 Exploring **Python for automation and AI/ML**
-* 🚀 Passionate about solving real-world problems through code
-* 🎯 Currently focused on **improving backend architecture and building production-level projects**
+- 💼 Currently working as a **Software Engineer at Progeny Technologies Ltd.**
+- 🏢 Working with an **enterprise ERP platform** across Purchase, Sales, HR, Travel Management, and Inventory modules.
+- 🌐 Experienced in **full-stack web development** with React, Node.js, Express.js, REST APIs, and databases.
+- 🚀 Built **InternLagbe**, a full-stack internship management platform connecting students, companies, and administrators.
+- 🧠 Solved **1000+ Data Structures & Algorithms problems** across multiple online judges.
+- 🐍 Exploring **Python** for broader programming and automation applications.
+- 🎯 Interested in building **practical software solutions** and continuously improving my engineering skills.
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
 ### ⚙️ Backend
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
-
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
-### 🐍 Python & Tools
-
+### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 InternLabge
+### 🔹 InternLagbe
+A full-stack internship management platform connecting **students, companies, and administrators**.
 
-🔗 [View Code](https://github.com/SunnyBhaw/InternLagbe)
+**Key Features:**
+- 🔐 Role-based authentication and authorization
+- 👨‍🎓 Student, Company, and Admin roles
+- 💼 Internship posting and application management
+- 🔄 Backend APIs and database-driven workflows
 
-> Internship Management Platform
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB
 
-* 📌 A full-stack web application to manage and track internship opportunities
-* ⚙️ Built with React, Node.js, Express & MongoDB
-* 🎯 Helps students organize applications and track progress
+🔗 [View Repository](https://github.com/SunnyBhaw/InternLagbe)
 
 ### 🔹 Timer App
+A React-based countdown timer with customizable duration and intuitive controls.
 
-🔗 [View Code](https://github.com/SunnyBhaw/Timer-App)
+**Key Features:**
+- ⏱️ Customizable timer duration
+- ▶️ Start / Pause / Reset controls
+- ⚛️ React state management
 
-> Productivity Tool
+**Tech Stack:** React.js
 
-* ⏱️ A React-based timer application for focused work sessions
-* 🎯 Simple and clean UI for better productivity
+🔗 [View Repository](https://github.com/SunnyBhaw/Timer-App)
 
-### 🔹 Backend API Project
+## 🧠 Problem Solving
 
-🔗 [View Code](https://github.com/SunnyBhaw/Basic-Backend-Project)
-
-> RESTful API
-
-* 🔧 Built a REST API with CRUD operations
-* ⚙️ Node.js & Express backend with structured routes
-
-### 🔹 Fitness Website
-
-🔗 [View Code](https://github.com/SunnyBhaw/Fitness-by-tailwindcss)
-
-> Responsive UI Project
-
-* 🎨 Modern responsive website using Tailwind CSS
-* 📱 Mobile-friendly design
+- 🏆 **1000+** Data Structures & Algorithms problems solved across multiple online judges.
+- 🥇 **8th Place** — UAP Collaborative Programming Contest 2023
+- 🏅 **136th Place** — National Collegiate Programming Contest (NCPC) 2023
+- 🏆 **Top Fresher** — Intra University Programming Contest 2022
+- 💻 **Codeforces:** [Sunny_bhaw](https://codeforces.com/profile/Sunny_bhaw) — Max Rating: 1066
+- 👨‍💻 **CodeChef:** [sunny_bhaw](https://www.codechef.com/users/sunny_bhaw) — Highest Rating: 1197
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunnyBhaw&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunnyBhaw&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SunnyBhaw&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyBhaw&layout=compact&hide_border=true" height="165" />
 </p>
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:mirzahidulalam2000@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sunnybhaww">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sunnybhaww/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SunnyBhaw">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-## 💡 Philosophy
+## 💡 Developer Philosophy
 
-<p align="center">
-  <i>"Build real projects. Solve real problems. Keep improving every day."</i>
-</p>
+> **Build real projects. Solve real problems. Keep learning. Keep improving.**
