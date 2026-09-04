@@ -85,13 +85,6 @@ A React-based countdown timer with customizable duration and intuitive controls.
 - 💻 **Codeforces:** [Sunny_bhaw](https://codeforces.com/profile/Sunny_bhaw) — Max Rating: 1066
 - 👨‍💻 **CodeChef:** [sunny_bhaw](https://www.codechef.com/users/sunny_bhaw) — Highest Rating: 1197
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunnyBhaw&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyBhaw&layout=compact&hide_border=true" height="165" />
-</p>
-
 ## 🤝 Connect With Me
 
 <p align="center">
